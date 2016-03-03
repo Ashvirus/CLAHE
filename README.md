@@ -10,5 +10,5 @@ where intensity of the images are very dark, CLAHE provides a better image.
 
 Steps to run the code:
 1. Open MATLAB and go to the path where fn_CLAHE.m is stored.
-2. Give the image name is Run as 'example.jpg'
+2. Give the image name in Run as 'example.jpg'
 3. Run the program and see your result
