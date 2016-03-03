@@ -2,8 +2,8 @@
 Contrast Limited Adaptive Histogram Equalization
 Change your cliplimit for better outputs.
 
-The simple histogram method suers from intensity saturation which results
-in information loss which is not acceptable in the case of medical images. Thus,
+The simple histogram method suffers from intensity saturation which results
+in information loss, which is not acceptable in the case of medical images. Thus,
 whenever we want to retain the details of the image while improving the quality
 of the image, CLAHE is one of the best option to go for. In medical images,
 where intensity of the images are very dark, CLAHE provides a better image.
